@@ -1,0 +1,154 @@
+@media screen and (max-width: 1024px) {
+    .nav ul {
+        width: 400px;
+    }
+    .navtwo{
+        width: 200px;
+    }
+    .content h1 {
+        font-size: 40px;
+    }
+    .content h2 {
+        font-size: 25px;
+    }
+    .par {
+        width: 700px;
+    }
+    section2 {
+        height: 100%;
+    }
+    .tool {
+        margin-left: 5px;
+    }
+    .tools {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+    section3 {
+        height: 100%;
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        align-items: center;
+    }
+    .projects {
+        display: flex;
+        flex-flow: row wrap;
+    }
+    .firstLine {
+        display: flex;
+        flex-flow: column wrap;
+
+    }
+    .secondLine {
+        display: flex;
+        flex-flow: column wrap;
+    }
+    section4 {
+        height: 100%
+    }
+    section4 p {
+        width: 700px;
+    }
+    .res {
+        display: flex;
+        flex-flow: column wrap;
+    }
+    .set {
+        margin: 20px 0 20px 0;;
+        }
+    section5 {
+        height: 100%;
+    }
+    .yourname {
+        display: flex;
+    }
+    .massage {
+        width: 750px;
+    }
+    .form {
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        align-items: center;
+    }
+    .firstf :nth-child(2) {
+        margin-left: 0;
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    .nav {
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        align-items: center;
+        width: 
+    }
+    .nav ul {
+        width: 320px;
+        padding: 0;
+        margin: 10px -10px;
+        }
+    .navtwo {
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        align-items: center;
+    }
+    .nav ul span {
+        display: none;
+    }
+    .content h1 {
+        width: 320px;
+        text-align: center;
+    }
+    .content h2 {
+        width: 300px;
+        text-align: center;
+    }
+    .other {
+        font-size: 38px;
+    }
+    .par {
+        width: 320px;
+    }
+    section4 p {
+        width: 700px;
+    }
+    .res {
+        display: flex;
+        flex-flow: column wrap;
+        margin: 0
+    }
+    .team{
+        display: flex;
+        flex-flow: column wrap;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    section4 p{
+        width: 320px;
+    }
+    .set {
+        margin: 20px 0 20px 0;
+        }
+    .form input {
+        width: 310px;
+    }
+    section7 {
+        display: flex;
+        flex-flow: column-reverse nowrap;
+        width: 100%;
+    }
+    .socials {
+        margin-top: 40px;
+    }
+  }
+
+
+@media screen and (max-width: 1024px) {}
